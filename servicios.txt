@@ -1,1 +1,11 @@
-Se crean los servicos para la aplicación Taller1
+--Se crean los servicos para la aplicación Taller1
+
+TEGNOLOGÍAS EMERGENTES PARA EL DESARROLLO DE SOFTWARE
+
+1. Servicios Estudiantiles
+2. Foros
+3. Calendarios
+4. Notas
+5. Evaluaciones
+
+/////////////////////////////////////////////////////////
