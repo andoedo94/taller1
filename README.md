@@ -1,16 +1,11 @@
-Course: Emerging technologies for software development 
-
-Group: 
-    Javier Ulises Arias
-    Angelo Romero Palacio
-    Andres Paternina Ariza
+# Course: Emerging technologies for software development 
 
 
-# WORKSHOP #1
-HELLO GIT
+## Students Group
+ - Andres Paternina Ariza
+ - Angelo Romero Palacio 
+ - Javier Ulises Arias 
 
+## Workshop #1 : HELLO GIT
 
-this is the first GIT workshop, we will practice configuring a loca GIT repository, 
-conected them to a remote github repository and use commands like :  add, fetch, 
-push, pull, branch, checkout, commit, merge ...
-
+This is the first GIT workshop, we will practice configuring a loca GIT repository, conected them to a remote github repository and use commands like :   **add, fetch, push, pull, branch, checkout, commit, merge ...**
