@@ -2,7 +2,7 @@
 
 TEGNOLOGÍAS EMERGENTES PARA EL DESARROLLO DE SOFTWARE
 
-1. Servicios Estudiantiles
+1. Servicios Estudiantes
 2. Foros
 3. Calendarios
 4. Notas
