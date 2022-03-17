@@ -1,0 +1,2 @@
+Test automation script
+Type your test commands here
